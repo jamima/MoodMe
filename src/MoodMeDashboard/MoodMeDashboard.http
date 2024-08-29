@@ -1,0 +1,6 @@
+@MoodMeDashboard_HostAddress = http://localhost:5175
+
+GET {{MoodMeDashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
